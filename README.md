@@ -1,20 +1,5 @@
-# Project Name
+# Unit Deliverable 3 - Final Project
 
-Project Description
+Feel free to edit this file to contain a description of your project, as well as your UML diagram and GUI wireframe images. You can upload them to [imgur](https://imgur.com/upload) and display them here.
 
-## Tips/Notes
-
-Heads up that the .gitignore file here is for JavaFX specifically! Edit as necessary for your language. Primarily
-intended for IntelliJ+JavaFX for CS112
-
-## Part 1: Title
-
-Guidance for this part
-
-## Part 2: Title
-
-Repeat as necessary
-
-## Hacker Challenge
-
-Can provide extra hacker challenge here, tips, TL;DR, etc.
+Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format appropriately.
